@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tracker.PatternCheckerTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2022-01-21T19:40:58" hostname="RAFIKI" time="0.041">
+  <properties/>
+  <testcase name="[1] 'A" classname="tracker.PatternCheckerTest" time="0.016"/>
+  <testcase name="[2] A-" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[3] O'-Neil" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[4] 'Ala-" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[1] Jemison Van de Graaff" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[2] Ronald Reuel Tolkien" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[3] Adam-Brand" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[4] O'Neil-Adams" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[1] -1" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[2] asffgasfas" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[3] j-" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[1] 152889" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[2] 1" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[3] 0" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[1] name@mail.com" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[2] mail-adam@mail.pl" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[3] mail123@mail.net" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[1] Anna Mar'-ia" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[2] 'Jemi'son Van de Graaff-" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[3] 123-" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[1] 1 1 1 1" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[2] 1 ? 1 1 1" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[3] 250938234" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[1] 234564 1 123 9 0" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[2] 10000 1 1 1 1" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[3] 1 1 1 1 1" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[1] name@mail" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[2] name @mail.com" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[3] name%^&amp;@#@mail.pl" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[1] Anna-Maria" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <testcase name="[2] Adam" classname="tracker.PatternCheckerTest" time="0.001"/>
+  <testcase name="[3] O'Neil" classname="tracker.PatternCheckerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
